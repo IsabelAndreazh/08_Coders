@@ -1,0 +1,25 @@
+.foto1{
+	display: inline;
+}
+
+
+.n{
+	position: relative;
+	display: inline-block;		
+	color:black;
+	left:200px;
+	bottom:7px;
+	
+}
+hr{
+	color:black  ;
+	size: 20px;
+	width: 200px;
+	align:left;
+	margin-bottom:10px;
+	margin-left:2px; 
+	
+}
+img{
+	opacity: 0.6;
+}
